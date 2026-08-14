@@ -114,7 +114,7 @@ get_disposable_virtual_card
 
 This was explored using per-class metrics and a confusion matrix.
 
-## Trained Model
+## Trained Model and dataset
 
 The best trained checkpoint is available here:
 

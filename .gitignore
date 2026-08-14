@@ -1,7 +1,0 @@
-.vscode/
-checkpoints/
-lightning_logs/
-*.csv
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
